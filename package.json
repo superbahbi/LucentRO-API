@@ -1,0 +1,9 @@
+{
+  "name": "lucent-api",
+  "main": "api.js",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "express": "~4.0.0",
+	"mysql": "~2.3.2"
+  }
+}
